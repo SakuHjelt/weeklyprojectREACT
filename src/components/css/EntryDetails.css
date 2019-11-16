@@ -1,0 +1,12 @@
+.singleEntry {
+    color: black;
+    text-align: center;
+    width: 350px;
+    height: 550px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(rgba(152, 152, 152, 0.6), rgba(245, 245, 245, 0.4));
+
+}

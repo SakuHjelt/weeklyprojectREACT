@@ -1,0 +1,32 @@
+.entryForm {
+    color: black;
+    text-align: center;
+    width: 350px;
+    height: 550px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(rgba(152, 152, 152, 0.6), rgba(245, 245, 245, 0.4));
+}
+
+.formlabel {
+    font-size: 20px;
+}
+
+.forminput {
+    color: #fff;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    -webkit-filter: drop
+}
+
+.formdescrinput {
+    color: white;
+    background: rgba(0, 0, 0, 0.313);
+    width: 80%;
+    height: 40%;
+}
+

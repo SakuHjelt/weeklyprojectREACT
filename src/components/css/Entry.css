@@ -1,0 +1,14 @@
+.Entry {
+    background: white;
+    text-align: center;
+}
+
+.entryid {
+    padding: 7px;
+    font-size: 25px;
+    background: rgb(131, 243, 255);
+}
+
+.btn {
+    background: rgb(91, 91, 91);
+}
